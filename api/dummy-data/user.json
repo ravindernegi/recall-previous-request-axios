@@ -1,0 +1,85 @@
+[
+  {
+    "_id": { "$oid": "608eb6321dfd6b0aac2eb904" },
+    "role": "admin",
+    "status": "active",
+    "is_deleted": false,
+    "first_name": "shirsa",
+    "last_name": "negi",
+    "password": "$2b$10$QdcGqqc3lBIRKcJPLpiHsuMWjfIB/FrkhBKJ.k4.cwf8arJdWX5sm",
+    "email": "shirsa@totallyhindi.com"
+  },
+  {
+    "_id": { "$oid": "608eb6321dfd6b0aac2eb903" },
+    "role": "admin",
+    "status": "active",
+    "is_deleted": false,
+    "first_name": "Honey",
+    "last_name": "negi",
+    "password": "$2b$10$QdcGqqc3lBIRKcJPLpiHsuMWjfIB/FrkhBKJ.k4.cwf8arJdWX5sm",
+    "email": "honey@totallyhindi.com"
+  },
+  {
+    "_id": { "$oid": "608eb6321dfd6b0aac2eb902" },
+    "role": "admin",
+    "status": "active",
+    "is_deleted": false,
+    "first_name": "manisha",
+    "last_name": "negi",
+    "password": "$2b$10$QdcGqqc3lBIRKcJPLpiHsuMWjfIB/FrkhBKJ.k4.cwf8arJdWX5sm",
+    "email": "manisha@totallyhindi.com"
+  },
+  {
+    "_id": { "$oid": "608eb6321dfd6b0aac2eb901" },
+    "role": "admin",
+    "status": "active",
+    "is_deleted": false,
+    "first_name": "lucky",
+    "last_name": "negi",
+    "password": "$2b$10$QdcGqqc3lBIRKcJPLpiHsuMWjfIB/FrkhBKJ.k4.cwf8arJdWX5sm",
+    "email": "lucky@totallyhindi.com"
+  },
+  {
+    "_id": { "$oid": "608eb6321dfd6b0aac2eb900" },
+    "role": "admin",
+    "status": "active",
+    "is_deleted": false,
+    "first_name": "Neeraj",
+    "last_name": "Garg",
+    "password": "$2b$10$QdcGqqc3lBIRKcJPLpiHsuMWjfIB/FrkhBKJ.k4.cwf8arJdWX5sm",
+    "email": "neeraj@totallyhindi.com"
+  },
+  {
+    "_id": { "$oid": "608eb6321dfd6b0aac2eb8ff" },
+    "role": "admin",
+    "status": "active",
+    "is_deleted": false,
+    "first_name": "Suneel",
+    "last_name": "Singh",
+    "password": "$2b$10$QdcGqqc3lBIRKcJPLpiHsuMWjfIB/FrkhBKJ.k4.cwf8arJdWX5sm",
+    "email": "suneel@totallyhindi.com"
+  },
+  {
+    "_id": { "$oid": "608eb6321dfd6b0aac2eb8fe" },
+    "role": "admin",
+    "status": "active",
+    "is_deleted": false,
+    "first_name": "Ranjita",
+    "last_name": "negi",
+    "password": "$2b$10$QdcGqqc3lBIRKcJPLpiHsuMWjfIB/FrkhBKJ.k4.cwf8arJdWX5sm",
+    "email": "ranjita@totallyhindi.com"
+  },
+  {
+    "_id": { "$oid": "608eb1e5c60fb20a407a9b51" },
+    "role": "admin",
+    "status": "active",
+    "is_deleted": false,
+    "first_name": "ravinder",
+    "last_name": "negi",
+    "password": "$2b$10$QdcGqqc3lBIRKcJPLpiHsuMWjfIB/FrkhBKJ.k4.cwf8arJdWX5sm",
+    "email": "me@ravindernegi.com",
+    "created_at": { "$date": "2021-05-02T14:06:29.888Z" },
+    "updated_at": { "$date": "2021-05-02T14:06:29.888Z" },
+    "__v": 0
+  }
+]
